@@ -1,0 +1,26 @@
+p {
+    margin:auto
+    font-size: x-large;
+}
+
+li {
+    color:black;
+    display:list-item;
+}
+
+h3 {
+    font-style:italic
+    font-size: x-large;
+}
+
+img {
+    opacity: 1;
+    width: 400px;
+    height: 400px;
+}
+
+div {
+  padding: 10px;
+  margin: 10px;
+}
+
